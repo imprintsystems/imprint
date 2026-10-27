@@ -1,0 +1,17 @@
+{
+  "name": "imprint",
+  "owner": {
+    "name": "Imprint Systems"
+  },
+  "metadata": {
+    "description": "Imprint for Claude Cowork."
+  },
+  "plugins": [
+    {
+      "name": "imprint",
+      "displayName": "Imprint",
+      "source": "./plugins/imprint",
+      "description": "Lets Imprint learn from your Cowork tasks and bring back what it has learned."
+    }
+  ]
+}
